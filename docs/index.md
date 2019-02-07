@@ -36,3 +36,4 @@ Welcome to the Zigbee2mqtt documentation!
 * [3D cases](information/3d_cases.md)
 * [CC sniffer devices](information/cc_sniffer_devices.md)
 * [Alternative flashing methods](information/alternative_flashing_methods.md)
+* [Flashing without re-pairing](information/flashing_without_re-pairing.md)
